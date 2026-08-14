@@ -1,0 +1,15 @@
+{
+  "name": "sample-tracker-api",
+  "version": "2.1.0",
+  "description": "REST API for tracking laboratory sample intake and storage location",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Tomas Lindqvist",
+  "dependencies": {
+    "express": "",
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
