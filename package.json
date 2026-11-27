@@ -6,7 +6,7 @@
   "license": "MIT",
   "author": "Tomas Lindqvist",
   "dependencies": {
-    "express": "",
+    "express": "^5.3.0",
     "lodash": "^4.17.21"
   },
   "scripts": {
